@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+    <string name="daily_weather_forecast">Daily weather forecast</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="yesterday_with_ph">Yesterday %s</string>
+    <string name="tomorrow_with_ph">Tomorrow %s</string>
+    <string name="last_update">Last update: %s</string>
+    <string name="city_search">City search</string>
+    <string name="delete_location">Delete location?</string>
+</resources>
